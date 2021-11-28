@@ -1,0 +1,10 @@
+POST http://localhost:3003/create
+Content-Type: application/json
+
+{
+  "title": "Hello",
+  "author": "Wenyang",
+  "url": "www.ok.com",
+  "likes": 6
+}
+
